@@ -1,4 +1,5 @@
-#wordpressldapimport
+#Wordpress LDAP Import
+
 Import users to Wordpress from LDAP or Active Directory.
 
 Requirements
