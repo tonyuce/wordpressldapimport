@@ -1,4 +1,4 @@
-wordpressldapimport
+#wordpressldapimport
 Import users to Wordpress from LDAP or Active Directory.
 
 Requirements
